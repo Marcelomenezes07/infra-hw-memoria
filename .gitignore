@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+gmon.out
+profile.prof
+flamegraph.svg
+relatorio_gprof.txt
+programa
+programa.c
+programa.py
+work.py
