@@ -1,6 +1,0 @@
-comando,tamanho,tempo_s,memoria_mb,ok
-python3 ordenacao.py,1000,0.03176842200082319,10.375,True
-python3 ordenacao.py,5000,0.03130062300078862,10.625,True
-python3 ordenacao.py,10000,0.0418415450003522,10.75,True
-python3 ordenacao.py,50000,0.11365481599932536,12.375,True
-python3 ordenacao.py,100000,0.1958773549995385,14.375,True
